@@ -5,8 +5,9 @@ Förrenderade målningar till Home Assistant-korten `panna-penseldrag-card` och 
 | Fil | Kort | Storlek |
 |---|---|---|
 | `panna-scen-1.webp` | `panna-penseldrag-card` 1.1.0 | 1560×1040 |
-| `element-scen-1.webp` | `element-penseldrag-card` 1.1.0 | 1840×1440 |
+| `element-scen-1.webp` | `element-penseldrag-card` 1.1.0 (ersatt) | 1840×1440 |
+| `element-scen-2.webp` | `element-penseldrag-card` 1.2.1 (TRV:n i köket) | 1840×1440 |
 
 Bilderna är det statiska, penselmålade lagret (papper, tank, panna, hus, rum, element, rör). Färger efter temperatur, texter och animationer ritas ovanpå i webbläsaren. Siffran i filnamnet ökas när målningen ändras, så att webbläsarens cache inte visar en gammal bild.
 
-Dokumentation och beslut: privata repot `johanhansson/homeassistant`, `docs/notes/2026-10-25-penseldrag-forrenderat/`.
+Dokumentation och beslut: privata repot `johanhansson/homeassistant`, `docs/notes/2026-10-25-penseldrag-forrenderat/` och `docs/notes/2026-10-30-trv-flyttad-till-kok/`.
